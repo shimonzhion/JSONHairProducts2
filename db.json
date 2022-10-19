@@ -1,39 +1,172 @@
 {
-    "HairProducts":[
-            { "image":"https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0068_69-Hydrating-Mist.jpg",
-              "price":18,
-              "title":"1PATTERN BY TRACEE ELLIS ROSS"
-             },
-    
-            { "image":"https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0068_69-Hydrating-Mist.jpg",
-              "price":18,
-              "title":"ETRJYKU"
-             },
-    
-            { "image":"https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0068_69-Hydrating-Mist.jpg",
-              "price":18,
-              "title":"HTJY"
-             },
-    
-            { "image":"https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0068_69-Hydrating-Mist.jpg",
-              "price":18,
-              "title":"1PAT"
-             },
-    
-            { "image":"https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0068_69-Hydrating-Mist.jpg",
-              "price":18,
-              "title":"1PATTERN BY TRACEE ELLIS ROSS"
-             },
-    
-            { "image":"https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0068_69-Hydrating-Mist.jpg",
-              "price":18,
-              "title":"1PATTERN BY TRACEE ELLIS ROSS"
-             }
-    ,
-            { "image":"https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0068_69-Hydrating-Mist.jpg",
-              "price":18,
-              "title":"1PATTERN BY TRACEE ELLIS ROSS"
-             }
-    
-    ]
+  "HairProducts": [
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0032_33-Perfect-hair-Day-PhD-Dry-Shampoo.jpg",
+      "price": 39.00,
+      "title": "LIVING PROOF",
+      "title2": "Perfect hair Day (PhD) Dry Shampoo"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0033_34-Full-Thickening-Cream.jpg",
+      "price": 29.00,
+      "title": "LIVING PROOF",
+      "title2": "Full Thickening Cream"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0034_35-Perfect-Hair-Day%C2%AE-Night-Cap-Overnight-Perfector.jpg",
+      "price": 29.00,
+      "title": "LIVING PROOF",
+      "title2": "Perfect Hair Day® Night Cap Overnight Perfector"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0035_36-Perfect-Hair-Day-Weightless-Mask.jpg",
+      "price": 38.00,
+      "title": "LIVING PROOF",
+      "title2": "Perfect Hair Day Weightless Mask"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0048_49-Sleep-Masque-Night-Repair-Serum.jpg",
+      "price": 165.00,
+      "title": "R + CO",
+      "title2": "Sleep Masque Night Repair Serum"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0050_51-Bleu-Ingenious-Thickening-Shampoo.jpg",
+      "price": 59.00,
+      "title": "R + CO",
+      "title2": "Bleu Ingenious Thickening Shampoo"
+    },
+    {
+      "image": "R + CO",
+      "price": 29.00,
+      "title": "R + CO",
+      "title2": "High Dive Moisture + Shine Creme"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0051_52-Centerpiece-All-in-One-Elixir.jpg",
+      "price": 32.00,
+      "title": "R + CO",
+      "title2": "Centerpiece All-in-One Elixir"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0069_70-Leave-In-Conditioner.jpg",
+      "price": 25.00,
+      "title": "PATTERN BY TRACEE ELLIS ROSS",
+      "title2": "Leave-In Conditioner"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0068_69-Hydrating-Mist.jpg",
+      "price": 18.00,
+      "title": "PATTERN BY TRACEE ELLIS ROSS",
+      "title2": "Hydrating Mist"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0071_72-Intensive-Conditioner.jpg",
+      "price": 25.00,
+      "title": "PATTERN BY TRACEE ELLIS ROSS",
+      "title2": "Intensive Conditioner"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0070_71-Styling-Cream.jpg",
+      "price": 25.00,
+      "title": "PATTERN BY TRACEE ELLIS ROSS",
+      "title2": "Styling Cream"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0072_73-Moroccanoil-Treatment.jpg",
+      "price":44.00,
+      "title": "MOROCCANOIL",
+      "title2": "Moroccanoil Treatment"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0073_74-Oily-Scalp-Treatment.jpg",
+      "price":38.00 ,
+      "title": "MOROCCANOIL",
+      "title2": "Oily Scalp Treatment"
+    },
+            {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0074_75-Hydrating-Styling-Cream.jpg",
+      "price":34.00 ,
+      "title": "MOROCCANOIL",
+      "title2": "Hydrating Styling Cream"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0075_76-Weightless-Hydrating-Mask.jpg",
+      "price":38.00 ,
+      "title": "MOROCCANOIL",
+      "title2": "Weightless Hydrating Mask"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0044_45-Gold-Lust-Nourishing-Hair-Oil.jpg",
+      "price": 56.00,
+      "title": "ORIBE",
+      "title2": "Gold Lust Nourishing Hair Oil"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0045_46-Gold-Lust-Transformative-Hair-Mask.jpg",
+      "price": 66.00,
+      "title": "ORIBE",
+      "title2": "Gold Lust Transformative Hair Mask"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0046_47-Gold-Lust-Repair-Restore-Shampoo.jpg",
+      "price": 49.00,
+      "title": "ORIBE",
+      "title2": "Gold Lust Repair & Restore Shampoo"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0047_48-Royal-Blowout-Heat-Styling-Spray.jpg",
+      "price": 69.00,
+      "title": "ORIBE",
+      "title2": "oyal Blowout Heat Styling Spray"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0028_29-Complete-Pre-Wash-Scalp-Hair-Treatment-Oil.jpg",
+      "price": 28.00,
+      "title": "JVN",
+      "title2": "Complete Pre-Wash Scalp & Hair Treatment Oil"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0029_30-Complete-Instant-Recovery-Leave-In-Serum.jpg",
+      "price": 28.00,
+      "title": "JVN",
+      "title2": "Complete Instant Recovery Leave-In Serum"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0030_31-Complete-Nourishing-Hair-Oil-Shine-Drops.jpg",
+      "price": 22.00,
+      "title": "JVN",
+      "title2": "Complete Nourishing Hair Oil Shine Drops"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0031_32-Complete-Hydrating-Air-Dry-Cream.jpg",
+      "price": 24.00,
+      "title": "JVN",
+      "title2": "Complete Hydrating Air Dry Cream"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0027_28-Hydrate-Superfoods-Treatment-Mask.jpg",
+      "price": 40,
+      "title": "PUREOLOGY",
+      "title2": "Hydrate Superfoods Treatment Mask"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0026_27-Strength-Cure-Miracle-Filler.jpg",
+      "price": 29,
+      "title": "PUREOLOGY",
+      "title2": "Strength Cure Miracle Filler"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0025_26-Style-Protect-Texture-Finishing-Spray.jpg",
+      "price": 28,
+      "title": "PUREOLOGY",
+      "title2": "Style + Protect Texture Finishing Spray"
+    },
+    {
+      "image": "https://editorialist.com/wp-content/uploads/2022/01/Haircare-Brands_0024_25-Color-Fanatic-Multi-Tasking-Leave-In-Spray.jpg",
+      "price": 29,
+      "title": "PUREOLOGY",
+      "title2": "Color Fanatic Multi-Tasking Leave-In Spra"
+    }
+  ]
 }
